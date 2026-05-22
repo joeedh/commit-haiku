@@ -6,3 +6,8 @@ gemini.txt
 # Python
 __pycache__/
 *.pyc
+
+.claude/settings.local.json
+# if we have a local skill installed for testing
+.claude/skills/commit-haiku
+
