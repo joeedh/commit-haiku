@@ -7,6 +7,7 @@ This is the **development repo** for the `commit-haiku` skill. The installed cop
 - `SKILL.md` — the manifest Claude Code loads. Frontmatter `name` + `description` controls when the skill triggers; the body is the prompt the running agent follows. Treat it as a prompt, not docs.
 - `generate_video.py` — the Veo client. Stdlib-only (`urllib`, `argparse`, `json`). **Do not add pip dependencies** — the skill is meant to work on any machine with Python 3.11+ installed.
 - `README.md` — human-facing install/usage guide.
+- `examples/` — sample MP4s checked in for the README to link. Named `commit-haiku-<shortsha>.mp4` matching the filename pattern the skill writes.
 
 ## Editing workflow
 

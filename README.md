@@ -14,6 +14,8 @@ shadows learn to fall
 
 → 8-second MP4 of a dark industrial hall, overhead conduits filling with traveling amber light, sculptures lit one by one, a narrator reading the haiku.
 
+[▶ examples/commit-haiku-c9c2570.mp4](examples/commit-haiku-c9c2570.mp4)
+
 ## Install
 
 This skill is installed by copying its files into your user skills directory.
